@@ -1,0 +1,16 @@
+{
+  "name": "docker_node",
+  "version": "1.0.0",
+  "description": "Test For Node.js with Docker",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.1.0"
+  },
+  "author": {
+    "name": "mingyu"
+  }
+}
